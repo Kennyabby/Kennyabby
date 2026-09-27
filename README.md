@@ -49,13 +49,13 @@ I'm particularly interested in **enterprise applications, ERP systems, SaaS prod
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Habeeb's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Habeeb's Top Languages" />
 
 </div>
 
@@ -69,27 +69,27 @@ I'm particularly interested in **enterprise applications, ERP systems, SaaS prod
 
 ---
 
-# 🚀 What I Build
+# What I Build
 
 My projects typically involve one or more of these areas:
 
-* 🏢 Enterprise & ERP Systems
-* 💻 Full-Stack Web Applications
-* ⚙️ Business Process Automation
-* ☁️ Cloud Applications & Infrastructure
-* 📊 Data & Analytics Systems
-* 🔌 APIs & System Integrations
-* 🛒 POS & Inventory Systems
-* 💰 Financial & Transaction Systems
-* 🤖 AI & LLM Applications
-* 📱 Internal Business Tools
-* 🧩 SaaS Platforms
+* Enterprise & ERP Systems
+* Full-Stack Web Applications
+* Business Process Automation
+* Cloud Applications & Infrastructure
+* Data & Analytics Systems
+* APIs & System Integrations
+* POS & Inventory Systems
+* Financial & Transaction Systems
+* AI & LLM Applications
+* Internal Business Tools
+* SaaS Platforms
 
 ---
 
 # 🏗️ Featured Projects
 
-## 🏢 EPX Central
+## EPX Central
 
 **Enterprise Management & ERP Platform**
 
@@ -176,7 +176,7 @@ Areas I'm exploring include:
 
 ---
 
-# 🧠 How I Think About Problems
+# How I Think About Problems
 
 I enjoy solving problems analytically.
 
@@ -217,7 +217,7 @@ I try to understand **why the problem exists**, what data is involved, what depe
 
 # 🔬 Engineering & Analytical Skills
 
-### 🧩 Problem Solving
+### Problem Solving
 
 * Breaking complex problems into manageable components
 * Logical reasoning
@@ -228,7 +228,7 @@ I try to understand **why the problem exists**, what data is involved, what depe
 * Identifying dependencies
 * Designing practical solutions
 
-### 🏗️ Software Engineering
+### Software Engineering
 
 * Software architecture
 * API design
@@ -240,7 +240,7 @@ I try to understand **why the problem exists**, what data is involved, what depe
 * Error handling
 * Performance optimization
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 * Data modelling
 * SQL
@@ -313,7 +313,7 @@ WebSockets
 
 ---
 
-# ☁️ From Code to Production
+# From Code to Production
 
 I don't stop at writing the application.
 
@@ -368,9 +368,9 @@ I'm interested in the complete lifecycle:
 
 ---
 
-# 🔭 Currently Working On
+# Currently Working On
 
-### 🧠 AI + Enterprise Software
+### AI + Enterprise Software
 
 Exploring how AI can understand business data and assist with:
 
