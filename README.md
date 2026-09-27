@@ -1,96 +1,69 @@
 <div align="center">
 
-# 👋 Hi, I'm Habeeb Ogunlade
+# 👋 Hey, I'm Habeeb Ogunlade
 
-### Full-Stack Developer • ERP Engineer • IT Manager • Product Builder
+### Software Engineer • Full-Stack Developer • ERP Engineer • Problem Solver
 
-**I build software that turns real-world business processes into working systems.**
+**I build software, automate business processes, and turn complex problems into practical systems.**
 
 <br/>
 
 <a href="https://github.com/Kennyabby">
-  <img src="https://komarev.com/ghpvc/?username=Kennyabby&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-Kennyabby-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/habeeb-ogunlade-3a5716230/">
+  <img src="https://img.shields.io/badge/LinkedIn-Habeeb%20Ogunlade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Kennyabby?tab=followers">
-  <img src="https://img.shields.io/github/followers/Kennyabby?label=Followers&style=flat" alt="GitHub followers"/>
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kennyabby&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🧑🏽‍💻 About Me
+# 🧑🏽‍💻 About Me
 
-I'm a **First Class Physics graduate turned software engineer and IT professional**, currently working across:
+I'm a software engineer and IT professional who enjoys **building things from the ground up**.
 
-* 🏢 Enterprise Resource Planning
-* 💻 Full-Stack Software Development
-* ☁️ Cloud Infrastructure
-* ⚙️ Business Process Automation
-* 📊 Data & Business Intelligence
-* 🤖 AI-powered enterprise applications
-* 🔌 API & system integrations
-
-I enjoy taking a messy real-world business process, understanding how it actually works, and turning it into a system that people can use.
+My work sits at the intersection of:
 
 ```text
-Problem
-   ↓
-Understand the Business
-   ↓
-Model the Process
-   ↓
-Design the Architecture
-   ↓
-Build
-   ↓
-Deploy
-   ↓
-Automate
-   ↓
-Improve
+Software Engineering
+        +
+Business Systems
+        +
+Data & Analytics
+        +
+Cloud Infrastructure
+        +
+Automation
+        +
+AI
 ```
+
+I enjoy taking problems that initially look complicated, breaking them down into smaller systems, understanding the underlying logic, and turning the solution into software.
+
+I'm particularly interested in **enterprise applications, ERP systems, SaaS products, automation, system architecture, and AI-powered software**.
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 What I Build
 
-### 🏢 Enterprise Software
+My projects typically involve one or more of these areas:
 
-Building systems that connect different areas of a business into a single operational ecosystem.
-
-**ERP • HR • Payroll • Finance • Inventory • POS • Procurement • CRM • Operations**
-
-### 🤖 AI + ERP
-
-Exploring how AI can become a genuine part of enterprise software.
-
-Not simply:
-
-> "Ask the chatbot a question."
-
-But:
-
-```text
-ERP Data
-   ↓
-Business Context
-   ↓
-AI Reasoning
-   ↓
-Business Insight
-   ↓
-Recommended Action
-   ↓
-Automation
-```
-
-### ☁️ Cloud & Infrastructure
-
-I enjoy taking applications from:
-
-**localhost → GitHub → CI/CD → cloud infrastructure → production**
+* 🏢 Enterprise & ERP Systems
+* 💻 Full-Stack Web Applications
+* ⚙️ Business Process Automation
+* ☁️ Cloud Applications & Infrastructure
+* 📊 Data & Analytics Systems
+* 🔌 APIs & System Integrations
+* 🛒 POS & Inventory Systems
+* 💰 Financial & Transaction Systems
+* 🤖 AI & LLM Applications
+* 📱 Internal Business Tools
+* 🧩 SaaS Platforms
 
 ---
 
@@ -98,43 +71,58 @@ I enjoy taking applications from:
 
 ## 🏢 EPX Central
 
-### Enterprise Management Platform
+**Enterprise Management & ERP Platform**
 
-A multi-tenant enterprise platform designed to bring business operations into a centralized ecosystem.
+One of my major software projects — a multi-tenant platform designed to bring different business operations into one ecosystem.
 
-**Modules include:**
-
-`HRM` `Payroll` `GL` `COA` `Trial Balance` `POS` `Inventory` `Purchasing` `Loyalty` `Gift Cards` `Ticketing` `Assets` `Store Operations`
-
-### Architecture
+### Modules
 
 ```text
-React / Vercel
-      │
-      ▼
- Node.js / Express
-      │
-      ▼
-   MongoDB
-      │
-      ▼
- AWS Infrastructure
+HRM
+Payroll
+General Ledger
+Chart of Accounts
+Trial Balance
+POS
+Inventory
+Purchasing
+Customers & Vendors
+Loyalty
+Digital Gift Cards
+Ticketing
+Asset Management
+Store Operations
 ```
 
-**Technology**
+### Technology
 
-`React` `Node.js` `Express` `MongoDB` `AWS` `Nginx` `PM2` `GitHub Actions`
+`React` `Redux` `Node.js` `Express` `MongoDB` `AWS` `Vercel` `Nginx` `PM2` `GitHub Actions`
+
+### Engineering Focus
+
+* Multi-tenant architecture
+* REST API design
+* Authentication & authorization
+* Database modelling
+* Business logic
+* Financial workflows
+* Inventory transactions
+* Cloud deployment
+* CI/CD
+* Production maintenance
 
 ---
 
 ## 🌱 Plantain Planet ERP
 
-A purpose-built ERP system designed around lounge and hospitality operations.
+**Hospitality & Lounge Management System**
 
-### Handles
+A purpose-built ERP designed around the actual operational workflow of a lounge.
 
-* Sales
-* Purchases
+### Features
+
+* Sales management
+* Purchasing
 * Inventory
 * Internal transfers
 * Customer debts
@@ -143,71 +131,126 @@ A purpose-built ERP system designed around lounge and hospitality operations.
 * Duplicate receipt detection
 * Operational reporting
 
-The goal was not to force the business into a generic workflow.
-
-**The workflow became the software.**
+The project involved translating real business processes into structured software workflows.
 
 ---
 
 ## ⛽ FuelCore
 
-A fuel station management and coupon platform.
+**Fuel Station Management & Coupon Platform**
 
-### Concepts explored
+A platform concept designed around the operational requirements of filling stations.
 
-`Corporate Accounts`
+### Core Systems
 
-`Individual Customers`
-
-`Fuel Coupons`
-
-`Bulk Coupon Generation`
-
-`Station & Branch Management`
-
-`Fuel Inventory`
-
-`Tank Management`
-
-`Shortage Tracking`
-
-`Payroll Deductions`
-
-`Payment Integration`
-
-`Station Finder`
-
-`Real-Time Queues`
-
-`WebSockets`
+* Fuel coupons
+* Corporate accounts
+* Individual customers
+* Station & branch management
+* Fuel inventory
+* Tank management
+* Shortage tracking
+* Staff management
+* Payroll deductions
+* Bulk coupon generation
+* Payment integrations
+* Station finder
+* Real-time queue management
+* WebSocket communication
 
 ---
 
-# 🧠 Engineering Mindset
+# 🧠 How I Think About Problems
 
-I don't see software development as simply writing code.
+I enjoy solving problems analytically.
 
-I think about systems through five layers:
+My typical approach:
 
 ```text
-┌─────────────────────────────┐
-│          BUSINESS           │
-├─────────────────────────────┤
-│          PROCESS            │
-├─────────────────────────────┤
-│            DATA             │
-├─────────────────────────────┤
-│          SOFTWARE           │
-├─────────────────────────────┤
-│       INFRASTRUCTURE        │
-└─────────────────────────────┘
+       PROBLEM
+          │
+          ▼
+   Understand the
+   actual situation
+          │
+          ▼
+    Break it down
+          │
+          ▼
+ Identify relationships
+     & constraints
+          │
+          ▼
+    Design a model
+          │
+          ▼
+    Build a solution
+          │
+          ▼
+     Test & analyze
+          │
+          ▼
+      Improve it
 ```
 
-The best solution is usually the one where **all five layers make sense together**.
+I don't like solving only the symptom.
+
+I try to understand **why the problem exists**, what data is involved, what dependencies exist, and what happens when the system grows.
 
 ---
 
-# 🛠️ Technology
+# 🔬 Engineering & Analytical Skills
+
+### 🧩 Problem Solving
+
+* Breaking complex problems into manageable components
+* Logical reasoning
+* Root-cause analysis
+* Debugging
+* Systematic troubleshooting
+* Process modelling
+* Identifying dependencies
+* Designing practical solutions
+
+### 🏗️ Software Engineering
+
+* Software architecture
+* API design
+* Database design
+* Authentication & authorization
+* Business logic
+* State management
+* Modular application design
+* Error handling
+* Performance optimization
+
+### 📊 Data & Analytics
+
+* Data modelling
+* SQL
+* Transaction analysis
+* Financial data structures
+* Reporting systems
+* Business intelligence
+* Data validation
+* Operational analytics
+
+### ☁️ Infrastructure
+
+* Linux
+* AWS
+* Azure
+* EC2
+* Nginx
+* PM2
+* DNS
+* SSL/TLS
+* CI/CD
+* Production deployments
+
+---
+
+# 🛠️ Technology Stack
 
 ### Languages
 
@@ -233,13 +276,13 @@ The best solution is usually the one where **all five layers make sense together
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### Cloud / DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,nginx,docker,githubactions" />
 </p>
 
-### Business Technology
+### Enterprise & Automation
 
 ```text
 Microsoft Dynamics 365 Business Central
@@ -248,48 +291,99 @@ Power Automate
 Power BI
 SharePoint
 AppSheet
+REST APIs
+WebSockets
 ```
 
 ---
 
-# ☁️ From Development to Production
+# 🤖 AI & Intelligent Systems
 
-One of the areas I'm particularly interested in is the entire lifecycle of a software system.
+One of the areas I'm actively exploring is the integration of **AI into real software systems**.
+
+I'm interested in moving beyond simple chatbot interfaces and exploring systems where AI can work with structured application data.
+
+For example:
 
 ```text
-                DEVELOPMENT
-                     │
-                     ▼
-                  GitHub
-                     │
-                     ▼
-              GitHub Actions
-                     │
-                     ▼
-                AWS / Cloud
-                     │
-              ┌──────┴──────┐
-              ▼             ▼
-           Nginx           PM2
-              │             │
-              └──────┬──────┘
-                     ▼
-                Production
+ERP
+ │
+ ├── Transactions
+ ├── Inventory
+ ├── Customers
+ ├── Vendors
+ ├── Finance
+ └── Operations
+        │
+        ▼
+   Business Context
+        │
+        ▼
+       AI
+        │
+        ├── Analysis
+        ├── Insights
+        ├── Recommendations
+        └── Automation
 ```
 
-I work with:
+Areas I'm exploring include:
 
-`AWS EC2` · `Linux` · `Nginx` · `PM2` · `GitHub Actions` · `REST APIs` · `DNS` · `SSL/TLS`
+* LLM integration
+* AI agents
+* RAG
+* Structured data + LLMs
+* AI-assisted analytics
+* AI-powered ERP
+* Intelligent automation
+* AI cost optimization
 
 ---
 
-# 📊 GitHub Analytics
+# ☁️ From Code to Production
+
+I don't stop at writing the application.
+
+I also enjoy understanding how the application gets into production and stays there.
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+ GitHub
+    │
+    ▼
+ GitHub Actions
+    │
+    ▼
+ AWS / Cloud
+    │
+    ▼
+   Nginx
+    │
+    ▼
+ Node.js / PM2
+    │
+    ▼
+ Production
+```
+
+I'm interested in the complete lifecycle:
+
+**Development → Testing → Deployment → Monitoring → Maintenance → Optimization**
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -297,142 +391,122 @@ I work with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Kennyabby&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Kennyabby&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Contributions & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kennyabby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kennyabby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
----
-
-# 📈 Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kennyabby&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kennyabby&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🔭 Currently Exploring
+# 🔭 Currently Working On
 
-### 🤖 Artificial Intelligence
+### 🧠 AI + Enterprise Software
 
-* LLM application architecture
-* AI agents
-* RAG
-* Structured business data + LLMs
-* AI-powered ERP
-* Intelligent workflow automation
-* Cost-efficient AI architectures
+Exploring how AI can understand business data and assist with:
 
-### 🏗️ Software Architecture
+**Analysis → Decision Support → Recommendations → Automation**
 
-* Scalable backend systems
-* Distributed systems
-* Database architecture
-* API design
-* Event-driven systems
-* Performance optimization
+### 🏢 ERP Engineering
 
-### ☁️ Cloud Engineering
+Building and improving enterprise systems involving:
 
-* AWS
-* Azure
-* CI/CD
-* Infrastructure automation
-* Monitoring
-* Security
-* Production reliability
+**Finance • HR • Inventory • POS • Operations • Reporting**
+
+### ☁️ Cloud & System Architecture
+
+Continuously improving my knowledge of:
+
+**Scalability • Performance • Security • Infrastructure • Deployment**
 
 ### 🧮 Computer Science
 
-Currently strengthening my understanding of:
+Currently deepening my understanding of:
 
-`Algorithms`
-
-`Data Structures`
-
-`Complexity Analysis`
-
-`System Design`
-
-`Computer Architecture`
+**Data Structures • Algorithms • Complexity • System Design**
 
 ---
 
-# 🎓 Background
-
-### University of Ibadan
-
-**BSc Physics — First Class**
-
-My transition from Physics into software engineering shaped how I approach technical problems.
-
-Physics taught me to:
-
-**understand the system → identify the variables → model the problem → test the solution.**
-
-I apply the same mindset to software.
-
----
-
-# 💡 Things I Like Building
+# 📌 Engineering Principles
 
 ```text
-ERP Systems
-Business Automation
-Enterprise APIs
-SaaS Platforms
-AI-powered Applications
-Cloud Infrastructure
-Operational Dashboards
-Financial Systems
-Inventory Systems
-Developer Tools
+01  Understand the problem before writing the solution.
+
+02  Keep systems simple where simplicity works.
+
+03  Design for the actual business process.
+
+04  Treat data as a first-class part of the system.
+
+05  Automate repetitive work.
+
+06  Build for maintainability, not just "it works".
+
+07  Learn from every production problem.
+
+08  Keep improving.
 ```
+
+---
+
+# 🌍 Beyond the Code
+
+I enjoy learning across different technical domains because many difficult engineering problems require knowledge outside a single technology stack.
+
+My interests include:
+
+`Computer Science`
+
+`Systems`
+
+`Physics`
+
+`Mathematics`
+
+`AI`
+
+`Cloud Computing`
+
+`Cybersecurity`
+
+`Business Technology`
+
+`Data`
 
 ---
 
 # 🤝 Let's Connect
 
-I'm interested in connecting with people working in:
+If you're interested in:
 
-**Software Engineering**
+**Software Engineering · ERP · AI · Cloud · Automation · SaaS · Enterprise Technology**
 
-**Enterprise Technology**
-
-**AI**
-
-**ERP**
-
-**Cloud Computing**
-
-**Automation**
-
-**Product Development**
-
-**Startups**
-
-<br/>
+I'd be happy to connect.
 
 <div align="center">
 
-<a href="https://github.com/Kennyabby">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/habeeb-ogunlade-3a5716230/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/habeeb-ogunlade-3a5716230/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Kennyabby">
+<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -441,8 +515,6 @@ I'm interested in connecting with people working in:
 
 <div align="center">
 
-### ⚡ Build systems. Solve problems. Keep learning.
-
-**Thanks for visiting my profile. 🚀**
+### ⚡ Build. Analyze. Improve. Repeat.
 
 </div>
