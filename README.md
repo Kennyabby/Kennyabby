@@ -49,6 +49,26 @@ I'm particularly interested in **enterprise applications, ERP systems, SaaS prod
 
 ---
 
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kennyabby&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 🚀 What I Build
 
 My projects typically involve one or more of these areas:
@@ -113,50 +133,46 @@ Store Operations
 
 ---
 
-## 🌱 Plantain Planet ERP
+# 🤖 AI & Intelligent Systems
 
-**Hospitality & Lounge Management System**
+One of the areas I'm actively exploring is the integration of **AI into real software systems**.
 
-A purpose-built ERP designed around the actual operational workflow of a lounge.
+I'm interested in moving beyond simple chatbot interfaces and exploring systems where AI can work with structured application data.
 
-### Features
+For example:
 
-* Sales management
-* Purchasing
-* Inventory
-* Internal transfers
-* Customer debts
-* Salary debt deductions
-* Receipt management
-* Duplicate receipt detection
-* Operational reporting
+```text
+ERP
+ │
+ ├── Transactions
+ ├── Inventory
+ ├── Customers
+ ├── Vendors
+ ├── Finance
+ └── Operations
+        │
+        ▼
+   Business Context
+        │
+        ▼
+       AI
+        │
+        ├── Analysis
+        ├── Insights
+        ├── Recommendations
+        └── Automation
+```
 
-The project involved translating real business processes into structured software workflows.
+Areas I'm exploring include:
 
----
-
-## ⛽ FuelCore
-
-**Fuel Station Management & Coupon Platform**
-
-A platform concept designed around the operational requirements of filling stations.
-
-### Core Systems
-
-* Fuel coupons
-* Corporate accounts
-* Individual customers
-* Station & branch management
-* Fuel inventory
-* Tank management
-* Shortage tracking
-* Staff management
-* Payroll deductions
-* Bulk coupon generation
-* Payment integrations
-* Station finder
-* Real-time queue management
-* WebSocket communication
+* LLM integration
+* AI agents
+* RAG
+* Structured data + LLMs
+* AI-assisted analytics
+* AI-powered ERP
+* Intelligent automation
+* AI cost optimization
 
 ---
 
@@ -297,49 +313,6 @@ WebSockets
 
 ---
 
-# 🤖 AI & Intelligent Systems
-
-One of the areas I'm actively exploring is the integration of **AI into real software systems**.
-
-I'm interested in moving beyond simple chatbot interfaces and exploring systems where AI can work with structured application data.
-
-For example:
-
-```text
-ERP
- │
- ├── Transactions
- ├── Inventory
- ├── Customers
- ├── Vendors
- ├── Finance
- └── Operations
-        │
-        ▼
-   Business Context
-        │
-        ▼
-       AI
-        │
-        ├── Analysis
-        ├── Insights
-        ├── Recommendations
-        └── Automation
-```
-
-Areas I'm exploring include:
-
-* LLM integration
-* AI agents
-* RAG
-* Structured data + LLMs
-* AI-assisted analytics
-* AI-powered ERP
-* Intelligent automation
-* AI cost optimization
-
----
-
 # ☁️ From Code to Production
 
 I don't stop at writing the application.
@@ -374,26 +347,6 @@ Developer
 I'm interested in the complete lifecycle:
 
 **Development → Testing → Deployment → Monitoring → Maintenance → Optimization**
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kennyabby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennyabby&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kennyabby&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
